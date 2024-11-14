@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Welcome to My Blog"
-date: YYYY-MM-DD HH:MM:SS -0000
+date: 2024-11-14 10:00:00 -0000
 ---
 
