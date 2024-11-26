@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Reviving and reworking the KRunner help"
-date: 2022-01-19 10:00:00 -0000
 ---
 
 ## Reviving and reworking the KRunner help

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Reworking Recent Files search for Plasma 6"
-date: 2023-10-26 10:00:00 -0000
 ---
 
 ## Reworking Recent Files search for Plasma 6

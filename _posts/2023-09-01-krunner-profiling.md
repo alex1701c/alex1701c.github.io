@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Profiling & Optimizing KRunner"
-date: 2024-09-01 10:00:00 -0000
 ---
 
 ## Profiling & Optimizing KRunner

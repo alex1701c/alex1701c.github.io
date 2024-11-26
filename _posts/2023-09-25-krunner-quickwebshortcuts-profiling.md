@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Web-Search-Keywords in KRunner, tales of optimizations"
-date: 2023-09-25 10:00:00 -0000
 ---
 
 ### Web-Search-Keywords in KRunner, tales of optimizations

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Improving the qcolor-from-literal Clazy check"
-date: 2024-01-20 10:00:00 -0000
 ---
 
 ### Improving the qcolor-from-literal Clazy check

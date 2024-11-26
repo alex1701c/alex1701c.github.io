@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cleaning up KDE's metadata - the little things matter too"
-date: 2024-01-02 10:00:00 -0000
 ---
 
 ## Cleaning up KDE's metadata - the little things matter too

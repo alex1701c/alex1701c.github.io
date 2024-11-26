@@ -3,5 +3,6 @@ title: Alexander's homepage
 author: Alexander Lohnau
 logo: /assets/img/logo.jpg
 description: Blog about variout things, mostly KDE related
+# permalink: /:categories/:year/:month/:day/:title
 plugins:
   - jekyll-feed
