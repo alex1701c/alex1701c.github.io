@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
 # alex1701c.github.io
 
 Welcome to my blog! Here’s a list of all posts:
