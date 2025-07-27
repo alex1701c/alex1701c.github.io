@@ -1,7 +1,9 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: Alexander's homepage
 author: Alexander Lohnau
 logo: /assets/img/logo.jpg
+email: alexander.lohnau@kde.org
 description: Blog about variout things, mostly KDE related
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
